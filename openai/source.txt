@@ -1,0 +1,2 @@
+https://github.com/openai/whisper/blob/f296bcd3fac41525f1c5ab467062776f8e13e4d0/whisper/__init__.py
+See line 17
